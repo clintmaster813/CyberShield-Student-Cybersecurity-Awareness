@@ -1,2 +1,2 @@
 # CyberShield-Student-Cybersecurity-Awareness
-A student-focused cybersecurity awareness resource covering phishing, password security, malware, social engineering and safe online practices.
+A professional cybersecurity awareness resource designed to educate students about common cyber threats and how to protect themselves.
